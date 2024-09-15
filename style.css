@@ -22,7 +22,20 @@ body {
   z-index: 99;
   /* display: none;  */
 }
-
+#yellow1 {
+  height: 100%;
+  position: absolute;
+  width: 100%;
+  background-color: #f5e41b;
+  z-index: 7;
+}
+#yellow2 {
+  height: 100%;
+  position: absolute;
+  width: 100%;
+  background-color: #f5e41b;
+  z-index: 8;
+}
 #loader h1 {
   font-size: 4.5vw;
   font-weight: 100;
@@ -38,20 +51,7 @@ body {
   position: absolute;
   z-index: 6;
 }
-#yellow1 {
-  height: 100%;
-  position: absolute;
-  width: 100%;
-  background-color: #f5e41b;
-  z-index: 7;
-}
-#yellow2 {
-  height: 100%;
-  position: absolute;
-  width: 100%;
-  background-color: #f5e41b;
-  z-index: 8;
-}
+
 #nav {
   position: absolute;
   width: 100%;
@@ -135,7 +135,6 @@ body {
   padding: 0.7px 0;
   transform: translate(0, -45%) scaleY(0);
   transition: all ease 0.3s;
-
   cursor: pointer;
 }
 
