@@ -14,7 +14,7 @@ This is a creative, animated landing page for a Work Studio, showcasing various 
 
 ## Demo
 You can view the live demo of the landing page here:  
-[Live Demo](#)
+[Live Demo](https://luminous-lily-8a292c.netlify.app/)
 
 ## Features
 - **Smooth scrolling animations** using Locomotive Scroll.
