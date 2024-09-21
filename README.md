@@ -27,6 +27,7 @@ You can view the live demo of the landing page here:
 - **CSS3**
 - **JavaScript**
 - **Locomotive Scroll** (for smooth scrolling effects)
+- **GSAP**(for loading animation)
 
 ## Setup
 
